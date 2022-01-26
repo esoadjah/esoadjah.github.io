@@ -3,7 +3,7 @@ layout: default
 title " "
 ---
 
-BIOSTATISTICIAN IN THE PHARMACEUTICAL INDUSTRY WITH INTEREST IN PHASE I/II/II CLINICAL TRIALS AND REAL WORLD DATA
+### BIOSTATISTICIAN IN THE PHARMACEUTICAL INDUSTRY WITH INTEREST IN PHASE I/II/II CLINICAL TRIALS AND REAL WORLD DATA
 
   I hold a PhD in biostatistics from the University of Queensland and MSc degree in Epidemiology and Biostatistics from Cyprus University of Technology.
   I am currently a biostatistician at PPD, part of Thermo Fisher Scientific where I lead statistical activities for clinical trial studies in infectious diseases, 
@@ -13,4 +13,4 @@ BIOSTATISTICIAN IN THE PHARMACEUTICAL INDUSTRY WITH INTEREST IN PHASE I/II/II CL
   statistical expertise at all levels of drug development, and in the conduct of epidemiological studies using real-world data
   from electronic medical records or linked health data.
 
-  I am certified SAS programming specialist.
+  I am ==certified SAS programming specialist==.
