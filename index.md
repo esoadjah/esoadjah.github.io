@@ -3,7 +3,7 @@ layout: default
 title " "
 ---
 
-### BIOSTATISTICIAN IN THE PHARMACEUTICAL INDUSTRY WITH INTEREST IN PHASE I/II/II CLINICAL TRIALS AND REAL WORLD DATA
+<b>  BIOSTATISTICIAN IN THE PHARMACEUTICAL INDUSTRY WITH INTEREST IN PHASE I/II/II CLINICAL TRIALS AND REAL WORLD DATA </b>
 
 <center> I hold a PhD in biostatistics from the University of Queensland and MSc degree in Epidemiology and Biostatistics from Cyprus University of Technology.
 I am currently a biostatistician at <a href="https://www.ppd.com/">PPD, part of Thermo Fisher Scientific</a> where I lead statistical activities for clinical trial studies in infectious diseases, women health, and oncology.
